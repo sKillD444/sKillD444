@@ -41,12 +41,6 @@
 
 ### 📫 Thông tin liên hệ
 - ✉️ Email: dangvochungkhanh@gmail.com
-- 📞 Số điện thoại: 0867 423 676
 
 <br>
 
-### 📊 Thống kê GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sKillD444&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sKillD444&layout=compact&hide_border=true&theme=radical" />
-</div>
