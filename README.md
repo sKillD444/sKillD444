@@ -1,7 +1,7 @@
-# Chào mừng đến với GitHub của Đăng! 👋
+# Chào mừng đến với GitHub của Đăng! (Võ Chung Khánh Đăng) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Game+Developer;Fullstack+.NET+Dev;Sinh+vi%C3%AAn+CNTT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Game+Developer;.NET+Developer;Sinh+vi%C3%AAn+CNTT" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,13 +10,12 @@
 - 🎓 Hiện đang là sinh viên năm 4 khoa Công nghệ thông tin tại Đại học Công nghệ Sài Gòn (STU).
 - 🎯 Mục tiêu: Tìm kiếm cơ hội áp dụng kiến thức, tích lũy kinh nghiệm thực tế và học hỏi từ các chuyên gia để phát triển bản thân.
 - 🎮 Đang tập trung phát triển đồ án tốt nghiệp game C++ (Cocos2d-x) mang tên **TowerOfSoul**.
-- 💻 Có kinh nghiệm làm việc với ứng dụng Desktop (WinForms) và phát triển Web (ASP.NET, PHP).
+- 💻 Có kinh nghiệm làm việc với ứng dụng Desktop (WinForms) và phát triển Web (ASP.NET).
 
 ### 🛠️ Kỹ năng & Công cụ
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <br>
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
@@ -41,6 +40,12 @@
 
 ### 📫 Thông tin liên hệ
 - ✉️ Email: dangvochungkhanh@gmail.com
+- 📞 Số điện thoại: 0867 423 676
 
 <br>
 
+### 📊 Thống kê GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sKillD444&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sKillD444&layout=compact&hide_border=true&theme=radical" />
+</div>
