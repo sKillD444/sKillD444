@@ -39,8 +39,7 @@
 ---
 
 ### 📫 Thông tin liên hệ
-- ✉️ Email: dangvochungkhanh@gmail.com
-- 📞 Số điện thoại: 0867 423 676
+- ✉️ Email: dangvochungkhanh@gmail.cóm
 
 <br>
 
