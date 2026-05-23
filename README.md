@@ -1,4 +1,4 @@
-# Chào mừng đến với GitHub của Đăng! (Võ Chung Khánh Đăng) 👋
+# Chào mừng đến với GitHub của Đăng!👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Game+Developer;.NET+Developer;Sinh+vi%C3%AAn+CNTT" alt="Typing SVG" />
